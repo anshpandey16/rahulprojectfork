@@ -1,3 +1,11 @@
+// PROGRAM TO PRINT THE REQUIRED PATTERN
+
+// *****
+// ****
+// ***
+// **
+// *
+
 #include<iostream>
 using namespace std;
 
